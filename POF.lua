@@ -1,4 +1,4 @@
--- [[
+--[[
     JX POF Hub
     Version: Release 1
     Discord: https://discord.gg/BNxJpgymkE
